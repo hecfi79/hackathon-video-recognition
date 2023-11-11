@@ -1,0 +1,20 @@
+/* Global styles */
+@font-face {
+    font-family: 'RussianRail';
+    src: url('./fonts/russianRail/russianrailgpro.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'fsrailway55';
+    src: url('./fonts/fsrailway/FSRAIL55.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'fsrailway75';
+    src: url('./fonts/fsrailway/FSRAIL75.ttf') format('truetype');
+}
+
+
+.body-card {
+    padding: 30px 140px;
+}
